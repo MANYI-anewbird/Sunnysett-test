@@ -17,3 +17,6 @@ sunnysett-service-key.json
 # Ignore macOS & editor files
 .DS_Store
 .vscode/
+cloud_functions/github_loader_v3/config.py
+gcp/record.txt
+sunnysett-service-key.json
