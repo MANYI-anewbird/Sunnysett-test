@@ -1,0 +1,19 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore local outputs and build artifacts
+output/
+gcp/record.txt
+
+# Ignore environment files
+.env
+env.yaml
+
+# Ignore service keys and secrets
+sunnysett-service-key.json
+*.json
+
+# Ignore macOS & editor files
+.DS_Store
+.vscode/

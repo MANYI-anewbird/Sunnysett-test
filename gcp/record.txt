@@ -1,0 +1,9 @@
+export GITHUB_TOKEN="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"
+export GOOGLE_APPLICATION_CREDENTIALS="~/sunnysett-test/sunnysett-service-key.json"
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/hmy/Sunnysett-test/sunnysett-service-key.json"
+
+cd ~/Sunnysett-test
+export PYTHONPATH=$PWD
+export GITHUB_TOKEN="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"   
+python -m github_pipeline.github_loader

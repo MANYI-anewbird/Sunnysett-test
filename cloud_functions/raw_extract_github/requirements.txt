@@ -1,0 +1,4 @@
+PyGithub==2.3.0
+google-cloud-storage==2.18.2
+
+
